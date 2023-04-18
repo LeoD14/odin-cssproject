@@ -1,25 +1,5 @@
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
 
-.menu-container {
-	color: white;
-	background-color: #1f2937;
-	padding: 20px;
-	border: 10px solid black;
-	display: flex;
-	justify-content: flex-end;
-}
 
-.menu {
-	color: white;
-	background-color: #1f2937;
-	padding: 20px;
-	border: 10px solid slategray;
-}
 
-.logo {
-	justify-items: flex-start;
-}
+
+
